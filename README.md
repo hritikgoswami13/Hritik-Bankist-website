@@ -1,2 +1,2 @@
 # Hritik-Bankist-website
-A simple bank websites.
+A simple bank website.
